@@ -1,1 +1,7 @@
-this is version 2 of software
+this is version 2 of softwaregit dif
+
+
+feature 1 added for stash
+
+added a git for git stash
+The final feature
